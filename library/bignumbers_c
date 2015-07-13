@@ -1,0 +1,3 @@
+as --gstabs bignumbers.s -o bignumbers.o
+as --gstabs bignumberstest.s -o bignumberstest.o
+ld bignumberstest.o bignumbers.o -o bignumbers

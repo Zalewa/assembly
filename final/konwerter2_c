@@ -1,0 +1,2 @@
+as --gstabs konwerter2.s -o konwerter2.o
+ld konwerter2.o -o konwerter2

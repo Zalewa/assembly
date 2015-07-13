@@ -1,0 +1,3 @@
+as --gstabs 3sumator.s -o 3sumator.o
+as --gstabs bignumbers.s -o bignumbers.o
+ld 3sumator.o bignumbers.o -o 3sumator

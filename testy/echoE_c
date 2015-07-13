@@ -1,0 +1,2 @@
+as echoE.s -o echoE.o
+ld echoE.o -o echoE

@@ -1,0 +1,3 @@
+as --gstabs testlib.s -o testlib.o
+as --gstabs testlibtest.s -o testlibtest.o
+ld testlibtest.o testlib.o -o testlib

@@ -1,0 +1,2 @@
+as --gstabs szyfr.s -o szyfr.o
+ld szyfr.o -o szyfr

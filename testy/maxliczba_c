@@ -1,0 +1,2 @@
+as --gstabs maxliczba.s -o maxliczba.o
+ld maxliczba.o -o maxliczba

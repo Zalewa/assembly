@@ -1,0 +1,2 @@
+as --gstabs rekurencja.s -o rekurencja.o
+ld rekurencja.o -o rekurencja

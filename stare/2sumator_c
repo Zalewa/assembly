@@ -1,0 +1,2 @@
+as --gstabs 2sumator.s -o 2sumator.o
+ld 2sumator.o -o 2sumator

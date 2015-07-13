@@ -1,0 +1,2 @@
+as --gstabs funkcja.s -o funkcja.o
+ld funkcja.o -o funkcja

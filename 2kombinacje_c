@@ -1,0 +1,3 @@
+as --gstabs 2kombinacje.s -o 2kombinacje.o
+as --gstabs bignumbers.s -o bignumbers.o
+ld 2kombinacje.o bignumbers.o -o 2kombinacje

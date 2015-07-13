@@ -1,0 +1,2 @@
+as --gstabs kombinacje.s -o kombinacje.o
+ld kombinacje.o -o kombinacje
